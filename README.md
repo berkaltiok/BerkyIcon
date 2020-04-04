@@ -9,6 +9,9 @@ New: Search font icon name, keywords, similar name
 Preparing other free libraries will be next versions.
 ```
 
+## Special Thanks
+Logo & scheme desingin [@fazlio](https://github.com/fazlio) (https://fazlio.github.io)
+
 ## Contact
 **Mail:** berkpw@gmail.com
 
