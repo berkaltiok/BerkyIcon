@@ -1,5 +1,6 @@
 # BerkyIcon
 Font Icon Generator
+[Download Now](https://adobe.com/go/xd_plugins_discover_plugin?pluginId=f2352844)
 
 ## Release Notes
 ```
